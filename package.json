@@ -47,6 +47,7 @@
       "@types/koa-mount": "^4.0.0",
       "@types/koa-passport": "^4.0.2",
       "@types/koa-session": "^5.10.3",
+      "@types/koa__router": "^8.0.3",
       "@types/lodash": "^4.14.167",
       "@types/lru-cache": "^5.1.0",
       "@types/memoizee": "^0.4.5",
@@ -63,7 +64,8 @@
       "nodemon": "^2.0.7",
       "nodesu": "https://github.com/ThePooN/nodesu/archive/502d65b9f84dd2fbe0a24f4eeaf9359305f8bcc3.tar.gz",
       "sass": "^1.32.2",
-      "sass-loader": "^10.1.0"
+      "sass-loader": "^10.1.0",
+      "vue-click-outside": "^1.1.0"
    },
    "scripts": {
       "build:ayim": "cd ./AYIM && nuxt-ts build",
